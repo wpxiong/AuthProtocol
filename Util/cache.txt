@@ -1,0 +1,13 @@
+[Twitter]
+accessToken = 
+accessTokenSecret = 
+requestToken = 
+requestTokenSecret = 
+[FaceBook]
+accessToken[accessToken] = CAAVVr1OVLEABADbmGtxbANBcjAEVipy1ZBs9JNusn2VeJ39feb4iMdNZCyYCjS08WY7xP6QbqTPiJtZCZBKY4HIZCRFzWd4oHOGHp7JQUJp3y43rRV8HnlaYw62JZAWEiKZCy2oZCx1wdvU4etMjyjddqy86Y1GlNZAOCZA8JBo7ilh27yfP4khvPxnWZACtewhnt6evDUHyvAr0oUMZC9hACR8N
+accessToken[expires] = 1453210654
+[Google]
+accessToken[accessToken] = 
+accessToken[expires] = 
+[TwitterMessage]
+message = twitter test server newmessage
